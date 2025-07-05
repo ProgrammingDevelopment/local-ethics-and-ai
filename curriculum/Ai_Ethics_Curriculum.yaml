@@ -1,0 +1,49 @@
+curriculum:
+  - title: "Introduction to AI Ethics"
+    description: "An overview of the ethical considerations in AI development and deployment."
+    topics:
+      - "Understanding AI and its societal impact"
+      - "Ethical frameworks in technology"
+      - "Case studies of AI ethics"
+    resources:
+      - "AI Ethics Guidelines by UNESCO"
+      - "OpenAI's Ethical Principles"
+  # --- IGNORE ---
+  # End of recent edits
+  - title: "AI and Human Rights"
+    description: "Exploring the intersection of AI technology and human rights."
+    topics:
+      - "AI's impact on privacy and freedom"
+      - "Bias and discrimination in AI systems"
+      - "Ensuring accountability in AI"
+    resources:
+      - "UN Human Rights Council reports on AI"
+      - "OpenAI's commitment to fairness"
+  - title: "Cultural Perspectives on AI"
+    description: "Understanding how different cultures view AI ethics."
+    topics:
+      - "Cultural values in technology"
+      - "Global vs. local perspectives on AI ethics"
+      - "Case studies from ASEAN countries"
+    resources:
+      - "ASEAN Digital Economy Framework"
+      - "Cultural insights from Indonesia's tech community"
+  - title: "AI in Governance"
+    description: "The role of AI in public governance and policy-making."
+    topics:
+      - "AI for public service efficiency"
+      - "Ethical implications of AI in governance"
+      - "Case studies of AI in public policy"
+    resources:
+      - "MRT Jakarta's AI governance initiatives"
+  - title: "Future of AI and Ethics"
+    description: "Looking ahead at the evolving landscape of AI ethics."
+    topics:
+      - "Emerging trends in AI technology"
+      - "Future challenges in AI ethics"
+      - "Preparing for the next generation of AI"
+    resources:
+      - "OpenAI's research on future AI developments"
+      - "UNESCO's foresight reports on AI and society"
+  # --- IGNORE ---
+  # End of recent edits
